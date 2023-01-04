@@ -1,5 +1,5 @@
 # froute
-Find google maps route for a destination from various pre-defined locations
+is a python script/parser that fetches and shows google maps route for a destination from various pre-defined locations
 
 ## Motivation
 While house-hunting in berlin, I always want to check how far is the new house I'm applying for is from the places which I visit very frequently e.g. office, Alexanderplatz, etc And what are the transport options from that place.
