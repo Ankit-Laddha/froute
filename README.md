@@ -135,11 +135,11 @@ LESS_WALKING:   120 | Bus towards S+U Hauptbahnhof | Stops: 7 | Stop At: Leopold
 
 ```
 
-## Future probable enhancement ideas
-
+## Future probable enhancement ideas 
+- Not planned. Current implementation serves my purpose.
 ```text
-[ ] Convert it to a CLI with ability to store some state. So people can add/edit/remove existing saved addresses.
 [ ] Do a check on my current account usage for maps API and exit if usage is going to exceed to avoid any extra charges.
+[ ] Convert it to a CLI with ability to store some state. So people can add/edit/remove existing saved addresses.
 [ ] Show alternate routes also
 [ ] ...
 ```
