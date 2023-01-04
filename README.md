@@ -75,6 +75,10 @@ Now store your Maps api-key as your system environment variable.
 export GOOGLE_MAPS_API_KEY=<Your-API-Key>
 ```
 
+### Update your pre-defined places
+Update your places in this line
+https://github.com/Ankit-Laddha/froute/blob/9d9d00724d16f7756ecff8eecf42a90f4a3c2bac/froute.py#L24
+
 ## Usage
 ```python
 py froute.py "<Add your address here>"
