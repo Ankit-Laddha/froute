@@ -17,6 +17,7 @@ def find_route(DESTINATION, directionBlob, type="BEST_ROUTE"):
 
   print(f"DESTINATION:\t{DESTINATION}\n{type}: \t{route} == {total_duration} mins\n")
 
+# Script starts from here
 gmaps = googlemaps.Client(key=os.environ['GOOGLE_MAPS_API_KEY'])
 
 # Request directions via public transit
