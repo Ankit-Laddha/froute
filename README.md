@@ -17,7 +17,7 @@ With froute, I simply pass the new-house address and it gives me all that inform
 pip3 install <library-name>
 ```
 
-## Warning for API usage
+## Warning for Google Maps API usage
 ```text
 Under the free plan, you are allowed up to 100,000 requests per 24 hours, and up to 2,500 requests* per day per user. If you exceed these limits, you will be prompted to enable billing on your project, and you will be charged according to the pricing listed on the Google Maps Platform website.
 
