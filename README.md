@@ -47,8 +47,8 @@ Restrict your API key to avoid unauthorized access.
 ```text
 Steps:
 1. Click the Edit button for the API key that you want to secure.
-2. In the Key restriction section, set Application restrictions to HTTP referrers or IP address.
-3. Add Ipaddress where you mostly going to use this script.
+2. In the Key restriction section, set Application restrictions to IP address.
+3. Add IP Addresses where you mostly going to use this script.
 4. Click Save.
 ```
 
