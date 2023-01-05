@@ -27,7 +27,7 @@ Under the free plan, you are allowed up to 100,000 requests per 24 hours, and up
 ## Setup
 
 ### MAPS API KEY
-Create and get API key for Google Maps API
+Create and get API key for Google Maps API.
 Google Maps API allows you to display maps on your website and/or application, and customize the maps with your own content. To use the Google Maps API, you need to sign up for an API key. Here is a general outline of the steps you need to follow to use the Google Maps API:
 
 ```text
@@ -140,7 +140,7 @@ LESS_WALKING:   120 | Bus towards S+U Hauptbahnhof | Stops: 7 | Stop At: Leopold
 ```
 
 ## Future probable enhancement ideas 
-- Not planned. Current implementation serves my purpose.
+- Not planned. Current implementation serves my purpose. But maybe for time when I'm bored and want to work on something ;)
 ```text
 [ ] Do a check on my current account usage for maps API and exit if usage is going to exceed to avoid any extra charges.
 [ ] Convert it to a CLI with ability to store some state. So people can add/edit/remove existing saved addresses.
