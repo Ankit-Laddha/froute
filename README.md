@@ -146,5 +146,6 @@ LESS_WALKING:   120 | Bus towards S+U Hauptbahnhof | Stops: 7 | Stop At: Leopold
 [ ] Convert it to a CLI with ability to store some state. So people can add/edit/remove existing saved addresses.
 [ ] Show top 3 nearby supermarket with distance and transport options
 [ ] Show alternate routes also
+[ ] Show output in a MAP format instead of plain text
 [ ] ...
 ```
