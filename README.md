@@ -144,6 +144,7 @@ LESS_WALKING:   120 | Bus towards S+U Hauptbahnhof | Stops: 7 | Stop At: Leopold
 ```text
 [ ] Do a check on my current account usage for maps API and exit if usage is going to exceed to avoid any extra charges.
 [ ] Convert it to a CLI with ability to store some state. So people can add/edit/remove existing saved addresses.
+[ ] Show top 3 nearby supermarket with distance and transport options
 [ ] Show alternate routes also
 [ ] ...
 ```
